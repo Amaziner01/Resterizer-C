@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/joand/Desktop/Other/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\gcc.exe   -g -O2 -o CMakeFiles\\Renderer.dir\\src\\hash_map.c.obj -c C:\\Users\\joand\\Desktop\\Other\\src\\hash_map.c",
+  "file": "C:/Users/joand/Desktop/Other/src/hash_map.c"
+},
+{
+  "directory": "C:/Users/joand/Desktop/Other/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\gcc.exe   -g -O2 -o CMakeFiles\\Renderer.dir\\src\\linear.c.obj -c C:\\Users\\joand\\Desktop\\Other\\src\\linear.c",
+  "file": "C:/Users/joand/Desktop/Other/src/linear.c"
+},
+{
+  "directory": "C:/Users/joand/Desktop/Other/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\gcc.exe   -g -O2 -o CMakeFiles\\Renderer.dir\\src\\main.c.obj -c C:\\Users\\joand\\Desktop\\Other\\src\\main.c",
+  "file": "C:/Users/joand/Desktop/Other/src/main.c"
+}
+]

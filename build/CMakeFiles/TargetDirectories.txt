@@ -1,0 +1,3 @@
+C:/Users/joand/Desktop/Other/build/CMakeFiles/Renderer.dir
+C:/Users/joand/Desktop/Other/build/CMakeFiles/edit_cache.dir
+C:/Users/joand/Desktop/Other/build/CMakeFiles/rebuild_cache.dir

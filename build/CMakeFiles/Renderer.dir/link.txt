@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Renderer.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Renderer.dir/objects.a @CMakeFiles\Renderer.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Renderer.dir/objects.a -Wl,--no-whole-archive -o Renderer.exe -Wl,--out-implib,libRenderer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Renderer.dir\linklibs.rsp
